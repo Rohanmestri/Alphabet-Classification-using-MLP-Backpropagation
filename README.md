@@ -1,4 +1,4 @@
-# Alphabet-Classification-using-MLP-Backpropogation-
+# Alphabet-Classification-using-MLP-Backpropagation-
 A Multi-Layer Perceptron is implemented to classify Handwritten Alphabet images using the Backpropagation algorithm which coded from scratch, without using any framework.
 
 
