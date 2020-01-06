@@ -13,17 +13,16 @@ A Multi-Layer Perceptron is implemented to classify Handwritten Alphabet images 
 <b>Built with</b>
 - [Numpy](https://numpy.org/)
 
-## Code Example
-Show what the library does as concisely as possible, developers should be able to figure out **how** your project solves their problem by looking at the code example. Make sure the API you are showing off is obvious, and that your code is short and concise.
 
 ## Installation
-Provide step by step series of examples and explanations about how to get a development env running.
-
-
-## Tests
-Describe and show how to run the tests with code examples.
+- git clone https://github.com/Rohanmestri/Alphabet-Classification-using-MLP-Backpropagation.git
 
 ## How to use?
-If people like your project they’ll want to learn how they can use it. To do so include step by step guide to use your project.
+- Copy the src/main.py to the folder where the dataset is downloaded amongst the folders of the letter A,B,C..
+- Execute the following line:
+       python main.py [filename]
+- [filename] is the name of the directory where the dataset and the code is present.
+- The code is written to classify 5 letters A,B,C,D,E and appropriate changes can be made to incorporate more letters.
+
 
 
