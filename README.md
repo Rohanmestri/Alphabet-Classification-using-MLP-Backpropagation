@@ -1,21 +1,17 @@
 # Alphabet-Classification-using-MLP-Backpropogation-
-A Multi-Layer Perceptron is implemented to classify Handwritten Alphabet images using the Backpropagation algorithm (coded from scratch using Numpy)
+A Multi-Layer Perceptron is implemented to classify Handwritten Alphabet images using the Backpropagation algorithm which coded from scratch, without using any framework.
 
-## Motivation
-A short description of the motivation behind the creation and maintenance of the project. This should explain **why** the project exists.
 
  
-## Screenshots
-Include logo/demo screenshot etc.
+## Dataset 
+The Dataset is an Image-Dataset obtained from Kaggle under the header 'English Alphabets' which is available under the CCO License.
+
+
 
 ## Tech/framework used
-Ex. -
 
 <b>Built with</b>
-- [Electron](https://electron.atom.io)
-
-## Features
-What makes your project stand out?
+- [Numpy](https://numpy.org/)
 
 ## Code Example
 Show what the library does as concisely as possible, developers should be able to figure out **how** your project solves their problem by looking at the code example. Make sure the API you are showing off is obvious, and that your code is short and concise.
