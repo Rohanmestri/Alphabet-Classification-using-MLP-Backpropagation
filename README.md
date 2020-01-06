@@ -4,12 +4,11 @@ A Multi-Layer Perceptron is implemented to classify Handwritten Alphabet images 
 
  
 ## Dataset 
-The Dataset is an Image-Dataset obtained from Kaggle under the header 'English Alphabets' which is available under the CCO License.
+The [Dataset] (https://www.kaggle.com/mohneesh7/english-alphabets/data#) is an Image-Dataset obtained from Kaggle under the header 'English Alphabets' which is available under the CCO License.
 
 
 
-## Tech/framework used
-
+## Framework used
 <b>Built with</b>
 - [Numpy](https://numpy.org/)
 
